@@ -1,0 +1,78 @@
+[
+{
+  "question": "Wie kann festgestellt werden, ob Getter und Setter zu den Attributen einer Klasse passen?",
+  "answer": "Durch Vergleich von Attributnamen und -typen mit den Namen und Rückgabe-/Parametertypen der Getter-/Setter-Methoden."
+},
+{
+  "question": "Wie kann eine Korrektur eines fehlerhaften Klassendiagramms fachlich begründet werden?",
+  "answer": "Durch Benennung der verletzten UML-Regel und Beschreibung der korrekten Darstellung."
+},
+{
+  "question": "Wie kann aus einer textlichen Beschreibung eine passende Klassenstruktur abgeleitet werden?",
+  "answer": "Indem Substantive als potenzielle Klassen/Attribute und Verben als potenzielle Methoden identifiziert werden."
+},
+{
+  "question": "Wie kann aus einer textlichen Beschreibung bestimmt werden, welche Eigenschaften als Attribute modelliert werden?",
+  "answer": "Beschriebene Merkmale/Zustände eines Objekts (meist Substantive/Adjektive) werden als Attribute übernommen."
+},
+{
+  "question": "Wie kann aus einer textlichen Beschreibung bestimmt werden, welche Funktionen als Methoden modelliert werden?",
+  "answer": "Beschriebene Tätigkeiten/Aktionen (meist Verben) eines Objekts werden als Methoden übernommen."
+},
+{
+  "question": "Wie kann aus einer textlichen Beschreibung eine Vererbungsbeziehung erkannt werden?",
+  "answer": "Wenn im Text eine „ist ein“-Beziehung zwischen zwei Begriffen beschrieben wird (z. B. „ein Auto ist ein Fahrzeug“)."
+},
+{
+  "question": "Wie kann aus einer textlichen Beschreibung eine Assoziation zwischen Klassen erkannt werden?",
+  "answer": "Wenn im Text beschrieben wird, dass Objekte zweier Klassen miteinander in Verbindung stehen bzw. „hat“/„nutzt“ verwendet wird."
+},
+{
+  "question": "Wie kann aus einem Pseudocode der tatsächliche Ablauf des Programms ermittelt werden?",
+  "answer": "Durch einen vollständigen Schreibtischtest, Zeile für Zeile, mit Auswertung aller Bedingungen."
+},
+{
+  "question": "Wie kann aus einem Pseudocode der endgültige Wert einer bestimmten Variable ermittelt werden?",
+  "answer": "Durch Verfolgen aller Zuweisungen zu dieser Variable bis zum Programmende im Schreibtischtest."
+},
+{
+  "question": "Wie kann aus einem Pseudocode die ausgegebene Zeichenfolge oder Zahl ermittelt werden?",
+  "answer": "Durch Schreibtischtest bis zur Ausgabeanweisung und Ablesen der zu diesem Zeitpunkt gültigen Werte."
+},
+{
+  "question": "Wie kann aus einem Pseudocode die Anzahl der Schleifendurchläufe ermittelt werden?",
+  "answer": "Durch Zählen der Fälle, in denen die Schleifenbedingung beim Schreibtischtest erfüllt war."
+},
+{
+  "question": "Wie kann aus einem Pseudocode bestimmt werden, welcher Programmpfad ausgeführt wird?",
+  "answer": "Durch Auswerten jeder Bedingung mit den zu diesem Zeitpunkt aktuellen Variablenwerten."
+},
+{
+  "question": "Wie kann ein Schreibtischtest durchgeführt werden, ohne den Ablauf eines Pseudocodes zu überspringen?",
+  "answer": "Indem jede einzelne Zeile in der geschriebenen Reihenfolge abgearbeitet und keine Anweisung übersprungen wird, auch wenn das Ergebnis „offensichtlich“ scheint."
+},
+{
+  "question": "Wie sollte eine Antwort formuliert werden, wenn in einer Klausur „Definieren Sie“ verlangt wird?",
+  "answer": "Knapp, präzise, ein vollständiger Satz mit der exakten Fachdefinition – keine Beispiele nötig."
+},
+{
+  "question": "Wie sollte eine Antwort formuliert werden, wenn in einer Klausur „Nennen Sie“ verlangt wird?",
+  "answer": "Stichpunktartige Aufzählung der geforderten Begriffe/Fakten, ohne Erklärung."
+},
+{
+  "question": "Wie sollte eine Antwort formuliert werden, wenn in einer Klausur „Begründen Sie“ verlangt wird?",
+  "answer": "Als vollständiger Satz mit klarem Ursache-Wirkungs-Zusammenhang (Warum ist das so?)."
+},
+{
+  "question": "Wie sollte eine Antwort formuliert werden, wenn in einer Klausur „Erläutern Sie“ verlangt wird?",
+  "answer": "Ausführlicher als eine Definition, mit Zusammenhang und ggf. kurzem Beispiel."
+},
+{
+  "question": "Welche Angaben müssen auf dem Deckblatt einer Klausur vollständig ausgefüllt werden?",
+  "answer": "Name, Datum, Klasse/Kurs, Fach/Modul sowie Start- und Endzeit der Bearbeitung (je nach Vorgabe der Schule/des Bildungsträgers)."
+},
+{
+  "question": "Welche Bedeutung haben Startzeit und Endzeit auf dem Klausurdeckblatt?",
+  "answer": "Sie dokumentieren die tatsächliche Bearbeitungsdauer und dienen dem Nachweis der Einhaltung der vorgegebenen Prüfungszeit."
+}
+]
